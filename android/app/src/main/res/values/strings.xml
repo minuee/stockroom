@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">힐톡</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">8UM4C7Z-w9yWQ9m5VWUUhBPe_HEh2hEvjuYfz</string>
+</resources>

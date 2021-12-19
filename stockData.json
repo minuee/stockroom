@@ -1,0 +1,1074 @@
+{
+  "jsonrpc": "2.0",
+  "result": {
+    "isuSrtCd": "005930",
+    "hisLists": [
+      {
+        "trdDd": 20210219,
+        "trdPrc": 82600,
+        "cmpprevddTpCd": "2",
+        "opnprc": 82300,
+        "hgprc": 82800,
+        "lwprc": 81000,
+        "accTrdvol": 6259,
+        "accTrdval": 512581700,
+        "cmpprevddPrc": 500
+      },
+
+      {
+        "trdDd": 20210218,
+        "trdPrc": 82100,
+        "cmpprevddTpCd": "2",
+        "opnprc": 83200,
+        "hgprc": 83600,
+        "lwprc": 82100,
+        "accTrdvol": 7231046,
+        "accTrdval": 609760986300,
+        "cmpprevddPrc": -1100
+      },
+
+      {
+        "trdDd": 20210217,
+        "trdPrc": 83200,
+        "cmpprevddTpCd": "2",
+        "opnprc": 83900,
+        "hgprc": 84200,
+        "lwprc": 83000,
+        "accTrdvol": 86537,
+        "accTrdval": 6111075400,
+        "cmpprevddPrc": -1700
+      },
+
+      {
+        "trdDd": 20210216,
+        "trdPrc": 84900,
+        "cmpprevddTpCd": "2",
+        "opnprc": 84500,
+        "hgprc": 86000,
+        "lwprc": 84200,
+        "accTrdvol": 84007,
+        "accTrdval": 5415811200,
+        "cmpprevddPrc": 700
+      },
+
+      {
+        "trdDd": 20210215,
+        "trdPrc": 84200,
+        "cmpprevddTpCd": "2",
+        "opnprc": 83800,
+        "hgprc": 84500,
+        "lwprc": 83300,
+        "accTrdvol": 23531087,
+        "accTrdval": 1967479577000,
+        "cmpprevddPrc": 2600
+      },
+
+      {
+        "trdDd": 20210210,
+        "trdPrc": 81600,
+        "cmpprevddTpCd": "5",
+        "opnprc": 82600,
+        "hgprc": 82600,
+        "lwprc": 81600,
+        "accTrdvol": 23025766,
+        "accTrdval": 1888591264669,
+        "cmpprevddPrc": -1100
+      },
+
+      {
+        "trdDd": 20210209,
+        "trdPrc": 82700,
+        "cmpprevddTpCd": "5",
+        "opnprc": 84000,
+        "hgprc": 84800,
+        "lwprc": 82700,
+        "accTrdvol": 20898332,
+        "accTrdval": 1748440766360,
+        "cmpprevddPrc": -300
+      },
+
+      {
+        "trdDd": 20210208,
+        "trdPrc": 83000,
+        "cmpprevddTpCd": "5",
+        "opnprc": 83800,
+        "hgprc": 84200,
+        "lwprc": 83000,
+        "accTrdvol": 15338765,
+        "accTrdval": 1281925400900,
+        "cmpprevddPrc": -500
+      },
+
+      {
+        "trdDd": 20210205,
+        "trdPrc": 83500,
+        "cmpprevddTpCd": "2",
+        "opnprc": 83100,
+        "hgprc": 84000,
+        "lwprc": 82500,
+        "accTrdvol": 18036835,
+        "accTrdval": 1499217618600,
+        "cmpprevddPrc": 1000
+      },
+
+      {
+        "trdDd": 20210204,
+        "trdPrc": 82500,
+        "cmpprevddTpCd": "5",
+        "opnprc": 83500,
+        "hgprc": 83800,
+        "lwprc": 82100,
+        "accTrdvol": 24171688,
+        "accTrdval": 2000202343000,
+        "cmpprevddPrc": -2100
+      },
+
+      {
+        "trdDd": 20210203,
+        "trdPrc": 84600,
+        "cmpprevddTpCd": "2",
+        "opnprc": 84800,
+        "hgprc": 85400,
+        "lwprc": 83400,
+        "accTrdvol": 22112205,
+        "accTrdval": 1864450334050,
+        "cmpprevddPrc": 200
+      },
+
+      {
+        "trdDd": 20210202,
+        "trdPrc": 84400,
+        "cmpprevddTpCd": "2",
+        "opnprc": 84100,
+        "hgprc": 86400,
+        "lwprc": 83700,
+        "accTrdvol": 26302077,
+        "accTrdval": 2234863449476,
+        "cmpprevddPrc": 1400
+      },
+
+      {
+        "trdDd": 20210201,
+        "trdPrc": 83000,
+        "cmpprevddTpCd": "2",
+        "opnprc": 81700,
+        "hgprc": 83400,
+        "lwprc": 81000,
+        "accTrdvol": 28046832,
+        "accTrdval": 2311656941176,
+        "cmpprevddPrc": 1000
+      },
+
+      {
+        "trdDd": 20210129,
+        "trdPrc": 82000,
+        "cmpprevddTpCd": "5",
+        "opnprc": 84500,
+        "hgprc": 85000,
+        "lwprc": 82000,
+        "accTrdvol": 39615978,
+        "accTrdval": 3292344404628,
+        "cmpprevddPrc": -1700
+      },
+
+      {
+        "trdDd": 20210128,
+        "trdPrc": 83700,
+        "cmpprevddTpCd": "5",
+        "opnprc": 83200,
+        "hgprc": 85600,
+        "lwprc": 83200,
+        "accTrdvol": 31859808,
+        "accTrdval": 2676569098000,
+        "cmpprevddPrc": -1900
+      },
+
+      {
+        "trdDd": 20210127,
+        "trdPrc": 85600,
+        "cmpprevddTpCd": "5",
+        "opnprc": 86600,
+        "hgprc": 87700,
+        "lwprc": 85600,
+        "accTrdvol": 26423070,
+        "accTrdval": 2282487598000,
+        "cmpprevddPrc": -1100
+      },
+
+      {
+        "trdDd": 20210126,
+        "trdPrc": 86700,
+        "cmpprevddTpCd": "5",
+        "opnprc": 88800,
+        "hgprc": 89200,
+        "lwprc": 86500,
+        "accTrdvol": 33178936,
+        "accTrdval": 2899318433100,
+        "cmpprevddPrc": -2700
+      },
+
+      {
+        "trdDd": 20210125,
+        "trdPrc": 89400,
+        "cmpprevddTpCd": "2",
+        "opnprc": 87000,
+        "hgprc": 89900,
+        "lwprc": 86300,
+        "accTrdvol": 27258534,
+        "accTrdval": 2410066876846,
+        "cmpprevddPrc": 2600
+      },
+
+      {
+        "trdDd": 20210122,
+        "trdPrc": 86800,
+        "cmpprevddTpCd": "5",
+        "opnprc": 89000,
+        "hgprc": 89700,
+        "lwprc": 86800,
+        "accTrdvol": 30861661,
+        "accTrdval": 2717635251520,
+        "cmpprevddPrc": -1300
+      },
+
+      {
+        "trdDd": 20210121,
+        "trdPrc": 88100,
+        "cmpprevddTpCd": "2",
+        "opnprc": 87500,
+        "hgprc": 88600,
+        "lwprc": 86500,
+        "accTrdvol": 25318011,
+        "accTrdval": 2211209788500,
+        "cmpprevddPrc": 900
+      },
+
+      {
+        "trdDd": 20210120,
+        "trdPrc": 87200,
+        "cmpprevddTpCd": "2",
+        "opnprc": 89000,
+        "hgprc": 89000,
+        "lwprc": 86500,
+        "accTrdvol": 25211127,
+        "accTrdval": 2205739149700,
+        "cmpprevddPrc": 200
+      },
+
+      {
+        "trdDd": 20210119,
+        "trdPrc": 87000,
+        "cmpprevddTpCd": "2",
+        "opnprc": 84500,
+        "hgprc": 88000,
+        "lwprc": 83600,
+        "accTrdvol": 39895044,
+        "accTrdval": 3441342754500,
+        "cmpprevddPrc": 2000
+      },
+
+      {
+        "trdDd": 20210118,
+        "trdPrc": 85000,
+        "cmpprevddTpCd": "5",
+        "opnprc": 86600,
+        "hgprc": 87300,
+        "lwprc": 84100,
+        "accTrdvol": 43227951,
+        "accTrdval": 3715775992600,
+        "cmpprevddPrc": -3000
+      },
+
+      {
+        "trdDd": 20210115,
+        "trdPrc": 88000,
+        "cmpprevddTpCd": "5",
+        "opnprc": 89800,
+        "hgprc": 91800,
+        "lwprc": 88000,
+        "accTrdvol": 33431809,
+        "accTrdval": 2975231937664,
+        "cmpprevddPrc": -1700
+      },
+
+      {
+        "trdDd": 20210114,
+        "trdPrc": 89700,
+        "cmpprevddTpCd": "3",
+        "opnprc": 88700,
+        "hgprc": 90000,
+        "lwprc": 88700,
+        "accTrdvol": 26393970,
+        "accTrdval": 2356661622700,
+        "cmpprevddPrc": 0
+      },
+
+      {
+        "trdDd": 20210113,
+        "trdPrc": 89700,
+        "cmpprevddTpCd": "5",
+        "opnprc": 89800,
+        "hgprc": 91200,
+        "lwprc": 89100,
+        "accTrdvol": 36068848,
+        "accTrdval": 3244066562850,
+        "cmpprevddPrc": -900
+      },
+
+      {
+        "trdDd": 20210112,
+        "trdPrc": 90600,
+        "cmpprevddTpCd": "5",
+        "opnprc": 90300,
+        "hgprc": 91400,
+        "lwprc": 87800,
+        "accTrdvol": 48682416,
+        "accTrdval": 4362546108950,
+        "cmpprevddPrc": -400
+      },
+
+      {
+        "trdDd": 20210111,
+        "trdPrc": 91000,
+        "cmpprevddTpCd": "2",
+        "opnprc": 90000,
+        "hgprc": 96800,
+        "lwprc": 89500,
+        "accTrdvol": 90306177,
+        "accTrdval": 8379237727064,
+        "cmpprevddPrc": 2200
+      },
+
+      {
+        "trdDd": 20210108,
+        "trdPrc": 88800,
+        "cmpprevddTpCd": "2",
+        "opnprc": 83300,
+        "hgprc": 90000,
+        "lwprc": 83000,
+        "accTrdvol": 59013307,
+        "accTrdval": 5083939899952,
+        "cmpprevddPrc": 5900
+      },
+
+      {
+        "trdDd": 20210107,
+        "trdPrc": 82900,
+        "cmpprevddTpCd": "2",
+        "opnprc": 82800,
+        "hgprc": 84200,
+        "lwprc": 82700,
+        "accTrdvol": 32644642,
+        "accTrdval": 2726112459660,
+        "cmpprevddPrc": 700
+      },
+
+      {
+        "trdDd": 20210106,
+        "trdPrc": 82200,
+        "cmpprevddTpCd": "5",
+        "opnprc": 83300,
+        "hgprc": 84500,
+        "lwprc": 82100,
+        "accTrdvol": 42089013,
+        "accTrdval": 3506903681680,
+        "cmpprevddPrc": -1700
+      },
+
+      {
+        "trdDd": 20210105,
+        "trdPrc": 83900,
+        "cmpprevddTpCd": "2",
+        "opnprc": 81600,
+        "hgprc": 83900,
+        "lwprc": 81600,
+        "accTrdvol": 35335669,
+        "accTrdval": 2915618322800,
+        "cmpprevddPrc": 900
+      },
+
+      {
+        "trdDd": 20210104,
+        "trdPrc": 83000,
+        "cmpprevddTpCd": "2",
+        "opnprc": 81000,
+        "hgprc": 84400,
+        "lwprc": 80200,
+        "accTrdvol": 38655276,
+        "accTrdval": 3185356823460,
+        "cmpprevddPrc": 2000
+      },
+      {
+        "trdDd": 20201230,
+        "trdPrc": 81000,
+        "cmpprevddTpCd": "2",
+        "opnprc": 77400,
+        "hgprc": 81300,
+        "lwprc": 77300,
+        "accTrdvol": 29417421,
+        "accTrdval": 2344317462700,
+        "cmpprevddPrc": 2700
+      },
+      {
+        "trdDd": 20201229,
+        "trdPrc": 78300,
+        "cmpprevddTpCd": "5",
+        "opnprc": 78800,
+        "hgprc": 78900,
+        "lwprc": 77300,
+        "accTrdvol": 30339449,
+        "accTrdval": 2368814098000,
+        "cmpprevddPrc": -400
+      },
+      {
+        "trdDd": 20201228,
+        "trdPrc": 78700,
+        "cmpprevddTpCd": "2",
+        "opnprc": 79000,
+        "hgprc": 80100,
+        "lwprc": 78200,
+        "accTrdvol": 40085044,
+        "accTrdval": 3172810866091,
+        "cmpprevddPrc": 900
+      },
+      {
+        "trdDd": 20201224,
+        "trdPrc": 77800,
+        "cmpprevddTpCd": "2",
+        "opnprc": 74100,
+        "hgprc": 78800,
+        "lwprc": 74000,
+        "accTrdvol": 32502870,
+        "accTrdval": 2486986812800,
+        "cmpprevddPrc": 3900
+      },
+      {
+        "trdDd": 20201223,
+        "trdPrc": 73900,
+        "cmpprevddTpCd": "2",
+        "opnprc": 72400,
+        "hgprc": 74000,
+        "lwprc": 72300,
+        "accTrdvol": 19411326,
+        "accTrdval": 1419205113900,
+        "cmpprevddPrc": 1600
+      },
+      {
+        "trdDd": 20201222,
+        "trdPrc": 72300,
+        "cmpprevddTpCd": "5",
+        "opnprc": 72500,
+        "hgprc": 73200,
+        "lwprc": 72100,
+        "accTrdvol": 16304910,
+        "accTrdval": 1183242835700,
+        "cmpprevddPrc": -700
+      },
+      {
+        "trdDd": 20201221,
+        "trdPrc": 73000,
+        "cmpprevddTpCd": "3",
+        "opnprc": 73100,
+        "hgprc": 73400,
+        "lwprc": 72000,
+        "accTrdvol": 20367355,
+        "accTrdval": 1477330803829,
+        "cmpprevddPrc": 0
+      },
+      {
+        "trdDd": 20201218,
+        "trdPrc": 73000,
+        "cmpprevddTpCd": "5",
+        "opnprc": 73300,
+        "hgprc": 73700,
+        "lwprc": 73000,
+        "accTrdvol": 17613029,
+        "accTrdval": 1289758794110,
+        "cmpprevddPrc": -300
+      },
+      {
+        "trdDd": 20201217,
+        "trdPrc": 73300,
+        "cmpprevddTpCd": "5",
+        "opnprc": 73400,
+        "hgprc": 73700,
+        "lwprc": 72600,
+        "accTrdvol": 24293214,
+        "accTrdval": 1777212529448,
+        "cmpprevddPrc": -500
+      },
+      {
+        "trdDd": 20201216,
+        "trdPrc": 73800,
+        "cmpprevddTpCd": "3",
+        "opnprc": 74100,
+        "hgprc": 74500,
+        "lwprc": 73400,
+        "accTrdvol": 17512081,
+        "accTrdval": 1291858716200,
+        "cmpprevddPrc": 0
+      },
+      {
+        "trdDd": 20201215,
+        "trdPrc": 73800,
+        "cmpprevddTpCd": "3",
+        "opnprc": 73800,
+        "hgprc": 74100,
+        "lwprc": 73300,
+        "accTrdvol": 20863671,
+        "accTrdval": 1538015446864,
+        "cmpprevddPrc": 0
+      },
+      {
+        "trdDd": 20201214,
+        "trdPrc": 73800,
+        "cmpprevddTpCd": "2",
+        "opnprc": 73600,
+        "hgprc": 74500,
+        "lwprc": 73200,
+        "accTrdvol": 21510415,
+        "accTrdval": 1590299594150,
+        "cmpprevddPrc": 400
+      },
+      {
+        "trdDd": 20201211,
+        "trdPrc": 73400,
+        "cmpprevddTpCd": "2",
+        "opnprc": 73500,
+        "hgprc": 73800,
+        "lwprc": 73100,
+        "accTrdvol": 18486672,
+        "accTrdval": 1356958867500,
+        "cmpprevddPrc": 500
+      },
+      {
+        "trdDd": 20201210,
+        "trdPrc": 72900,
+        "cmpprevddTpCd": "5",
+        "opnprc": 72700,
+        "hgprc": 73800,
+        "lwprc": 72500,
+        "accTrdvol": 39882928,
+        "accTrdval": 2916536731883,
+        "cmpprevddPrc": -1000
+      },
+      {
+        "trdDd": 20201209,
+        "trdPrc": 73900,
+        "cmpprevddTpCd": "2",
+        "opnprc": 72100,
+        "hgprc": 73900,
+        "lwprc": 72000,
+        "accTrdvol": 24077996,
+        "accTrdval": 1758752959520,
+        "cmpprevddPrc": 2200
+      },
+      {
+        "trdDd": 20201208,
+        "trdPrc": 71700,
+        "cmpprevddTpCd": "5",
+        "opnprc": 72200,
+        "hgprc": 72900,
+        "lwprc": 71600,
+        "accTrdvol": 25000338,
+        "accTrdval": 1804281313280,
+        "cmpprevddPrc": -1200
+      },
+      {
+        "trdDd": 20201207,
+        "trdPrc": 72900,
+        "cmpprevddTpCd": "2",
+        "opnprc": 72400,
+        "hgprc": 73500,
+        "lwprc": 71900,
+        "accTrdvol": 28490496,
+        "accTrdval": 2071956768562,
+        "cmpprevddPrc": 1400
+      },
+      {
+        "trdDd": 20201204,
+        "trdPrc": 71500,
+        "cmpprevddTpCd": "2",
+        "opnprc": 70400,
+        "hgprc": 72100,
+        "lwprc": 70100,
+        "accTrdvol": 28130533,
+        "accTrdval": 2010489248016,
+        "cmpprevddPrc": 1800
+      },
+      {
+        "trdDd": 20201203,
+        "trdPrc": 69700,
+        "cmpprevddTpCd": "2",
+        "opnprc": 70100,
+        "hgprc": 70500,
+        "lwprc": 69300,
+        "accTrdvol": 23677989,
+        "accTrdval": 1654493266700,
+        "cmpprevddPrc": 200
+      },
+      {
+        "trdDd": 20201202,
+        "trdPrc": 69500,
+        "cmpprevddTpCd": "2",
+        "opnprc": 68400,
+        "hgprc": 69900,
+        "lwprc": 68300,
+        "accTrdvol": 29703942,
+        "accTrdval": 2060700628380,
+        "cmpprevddPrc": 1700
+      },
+      {
+        "trdDd": 20201201,
+        "trdPrc": 67800,
+        "cmpprevddTpCd": "2",
+        "opnprc": 67100,
+        "hgprc": 68300,
+        "lwprc": 67100,
+        "accTrdvol": 22327173,
+        "accTrdval": 1513603485956,
+        "cmpprevddPrc": 1100
+      },
+      {
+        "trdDd": 20201130,
+        "trdPrc": 66700,
+        "cmpprevddTpCd": "5",
+        "opnprc": 68400,
+        "hgprc": 68600,
+        "lwprc": 66700,
+        "accTrdvol": 43811016,
+        "accTrdval": 2946475687804,
+        "cmpprevddPrc": -1500
+      },
+      {
+        "trdDd": 20201127,
+        "trdPrc": 68200,
+        "cmpprevddTpCd": "2",
+        "opnprc": 68000,
+        "hgprc": 68400,
+        "lwprc": 67600,
+        "accTrdvol": 14063434,
+        "accTrdval": 957450603551,
+        "cmpprevddPrc": 200
+      },
+      {
+        "trdDd": 20201126,
+        "trdPrc": 68000,
+        "cmpprevddTpCd": "2",
+        "opnprc": 66100,
+        "hgprc": 68000,
+        "lwprc": 66000,
+        "accTrdvol": 19023323,
+        "accTrdval": 1279790447375,
+        "cmpprevddPrc": 1400
+      },
+      {
+        "trdDd": 20201125,
+        "trdPrc": 66600,
+        "cmpprevddTpCd": "5",
+        "opnprc": 67900,
+        "hgprc": 68300,
+        "lwprc": 66500,
+        "accTrdvol": 32447065,
+        "accTrdval": 2185553286350,
+        "cmpprevddPrc": -1100
+      },
+      {
+        "trdDd": 20201124,
+        "trdPrc": 67700,
+        "cmpprevddTpCd": "2",
+        "opnprc": 67900,
+        "hgprc": 69500,
+        "lwprc": 67000,
+        "accTrdvol": 32158235,
+        "accTrdval": 2194516840235,
+        "cmpprevddPrc": 200
+      },
+      {
+        "trdDd": 20201123,
+        "trdPrc": 67500,
+        "cmpprevddTpCd": "2",
+        "opnprc": 64800,
+        "hgprc": 67800,
+        "lwprc": 64700,
+        "accTrdvol": 27134398,
+        "accTrdval": 1811363067200,
+        "cmpprevddPrc": 2800
+      },
+      {
+        "trdDd": 20201120,
+        "trdPrc": 64700,
+        "cmpprevddTpCd": "2",
+        "opnprc": 63900,
+        "hgprc": 65200,
+        "lwprc": 63900,
+        "accTrdvol": 15068682,
+        "accTrdval": 973133163547,
+        "cmpprevddPrc": 100
+      },
+      {
+        "trdDd": 20201119,
+        "trdPrc": 64600,
+        "cmpprevddTpCd": "5",
+        "opnprc": 64100,
+        "hgprc": 64800,
+        "lwprc": 63900,
+        "accTrdvol": 16590290,
+        "accTrdval": 1066784816800,
+        "cmpprevddPrc": -200
+      },
+      {
+        "trdDd": 20201118,
+        "trdPrc": 64800,
+        "cmpprevddTpCd": "5",
+        "opnprc": 65700,
+        "hgprc": 66200,
+        "lwprc": 64700,
+        "accTrdvol": 22963790,
+        "accTrdval": 1495190594762,
+        "cmpprevddPrc": -900
+      },
+      {
+        "trdDd": 20201117,
+        "trdPrc": 65700,
+        "cmpprevddTpCd": "5",
+        "opnprc": 67000,
+        "hgprc": 67000,
+        "lwprc": 65600,
+        "accTrdvol": 30204089,
+        "accTrdval": 1999330006280,
+        "cmpprevddPrc": -600
+      },
+      {
+        "trdDd": 20201116,
+        "trdPrc": 66300,
+        "cmpprevddTpCd": "2",
+        "opnprc": 64000,
+        "hgprc": 66700,
+        "lwprc": 63900,
+        "accTrdvol": 36354334,
+        "accTrdval": 2384455883700,
+        "cmpprevddPrc": 3100
+      },
+      {
+        "trdDd": 20201113,
+        "trdPrc": 63200,
+        "cmpprevddTpCd": "2",
+        "opnprc": 61300,
+        "hgprc": 63200,
+        "lwprc": 61000,
+        "accTrdvol": 31508829,
+        "accTrdval": 1962139786626,
+        "cmpprevddPrc": 2200
+      },
+      {
+        "trdDd": 20201112,
+        "trdPrc": 61000,
+        "cmpprevddTpCd": "5",
+        "opnprc": 61000,
+        "hgprc": 61400,
+        "lwprc": 60700,
+        "accTrdvol": 19800573,
+        "accTrdval": 1208396630080,
+        "cmpprevddPrc": -300
+      },
+      {
+        "trdDd": 20201111,
+        "trdPrc": 61300,
+        "cmpprevddTpCd": "2",
+        "opnprc": 60700,
+        "hgprc": 61400,
+        "lwprc": 60400,
+        "accTrdvol": 25628510,
+        "accTrdval": 1562195790430,
+        "cmpprevddPrc": 1100
+      },
+      {
+        "trdDd": 20201110,
+        "trdPrc": 60200,
+        "cmpprevddTpCd": "3",
+        "opnprc": 60500,
+        "hgprc": 60500,
+        "lwprc": 59500,
+        "accTrdvol": 19073552,
+        "accTrdval": 1144230876258,
+        "cmpprevddPrc": 0
+      },
+      {
+        "trdDd": 20201109,
+        "trdPrc": 60200,
+        "cmpprevddTpCd": "2",
+        "opnprc": 60700,
+        "hgprc": 60900,
+        "lwprc": 60100,
+        "accTrdvol": 15892961,
+        "accTrdval": 962261517220,
+        "cmpprevddPrc": 100
+      },
+      {
+        "trdDd": 20201106,
+        "trdPrc": 60100,
+        "cmpprevddTpCd": "5",
+        "opnprc": 60700,
+        "hgprc": 60800,
+        "lwprc": 59600,
+        "accTrdvol": 16910230,
+        "accTrdval": 1015446062300,
+        "cmpprevddPrc": -200
+      },
+      {
+        "trdDd": 20201105,
+        "trdPrc": 60300,
+        "cmpprevddTpCd": "2",
+        "opnprc": 59000,
+        "hgprc": 60300,
+        "lwprc": 58800,
+        "accTrdvol": 20639475,
+        "accTrdval": 1232654470000,
+        "cmpprevddPrc": 1800
+      },
+      {
+        "trdDd": 20201104,
+        "trdPrc": 58500,
+        "cmpprevddTpCd": "5",
+        "opnprc": 58900,
+        "hgprc": 59000,
+        "lwprc": 57800,
+        "accTrdvol": 21718561,
+        "accTrdval": 1269055231850,
+        "cmpprevddPrc": -300
+      },
+      {
+        "trdDd": 20201103,
+        "trdPrc": 58800,
+        "cmpprevddTpCd": "2",
+        "opnprc": 57900,
+        "hgprc": 58900,
+        "lwprc": 57600,
+        "accTrdvol": 14950919,
+        "accTrdval": 873635908544,
+        "cmpprevddPrc": 1400
+      },
+      {
+        "trdDd": 20201102,
+        "trdPrc": 57400,
+        "cmpprevddTpCd": "2",
+        "opnprc": 56400,
+        "hgprc": 57500,
+        "lwprc": 56000,
+        "accTrdvol": 20489076,
+        "accTrdval": 1165272782935,
+        "cmpprevddPrc": 800
+      },
+      {
+        "trdDd": 20201030,
+        "trdPrc": 56600,
+        "cmpprevddTpCd": "5",
+        "opnprc": 58000,
+        "hgprc": 58000,
+        "lwprc": 56600,
+        "accTrdvol": 26907844,
+        "accTrdval": 1541223383000,
+        "cmpprevddPrc": -1500
+      },
+      {
+        "trdDd": 20201029,
+        "trdPrc": 58100,
+        "cmpprevddTpCd": "5",
+        "opnprc": 58200,
+        "hgprc": 58500,
+        "lwprc": 57500,
+        "accTrdvol": 22636966,
+        "accTrdval": 1313484238200,
+        "cmpprevddPrc": -900
+      },
+      {
+        "trdDd": 20201028,
+        "trdPrc": 59000,
+        "cmpprevddTpCd": "5",
+        "opnprc": 59400,
+        "hgprc": 59400,
+        "lwprc": 58800,
+        "accTrdvol": 14428882,
+        "accTrdval": 851618619425,
+        "cmpprevddPrc": -800
+      },
+      {
+        "trdDd": 20201027,
+        "trdPrc": 59800,
+        "cmpprevddTpCd": "5",
+        "opnprc": 60300,
+        "hgprc": 60300,
+        "lwprc": 59500,
+        "accTrdvol": 17260416,
+        "accTrdval": 1032623352660,
+        "cmpprevddPrc": -600
+      },
+      {
+        "trdDd": 20201026,
+        "trdPrc": 60400,
+        "cmpprevddTpCd": "2",
+        "opnprc": 60400,
+        "hgprc": 61100,
+        "lwprc": 60100,
+        "accTrdvol": 13268226,
+        "accTrdval": 803140204300,
+        "cmpprevddPrc": 200
+      },
+      {
+        "trdDd": 20201023,
+        "trdPrc": 60200,
+        "cmpprevddTpCd": "2",
+        "opnprc": 60400,
+        "hgprc": 60400,
+        "lwprc": 59800,
+        "accTrdvol": 9322232,
+        "accTrdval": 560419899005,
+        "cmpprevddPrc": 100
+      },
+      {
+        "trdDd": 20201022,
+        "trdPrc": 60100,
+        "cmpprevddTpCd": "5",
+        "opnprc": 60300,
+        "hgprc": 60500,
+        "lwprc": 59800,
+        "accTrdvol": 14294095,
+        "accTrdval": 858048333246,
+        "cmpprevddPrc": -800
+      },
+      {
+        "trdDd": 20201021,
+        "trdPrc": 60900,
+        "cmpprevddTpCd": "3",
+        "opnprc": 61200,
+        "hgprc": 61500,
+        "lwprc": 60600,
+        "accTrdvol": 15703443,
+        "accTrdval": 959154941000,
+        "cmpprevddPrc": 0
+      },
+      {
+        "trdDd": 20201020,
+        "trdPrc": 60900,
+        "cmpprevddTpCd": "2",
+        "opnprc": 60300,
+        "hgprc": 60900,
+        "lwprc": 60100,
+        "accTrdvol": 19326115,
+        "accTrdval": 1172317250906,
+        "cmpprevddPrc": 900
+      },
+      {
+        "trdDd": 20201019,
+        "trdPrc": 60000,
+        "cmpprevddTpCd": "2",
+        "opnprc": 59600,
+        "hgprc": 60200,
+        "lwprc": 59500,
+        "accTrdvol": 14474985,
+        "accTrdval": 867445905100,
+        "cmpprevddPrc": 500
+      },
+      {
+        "trdDd": 20201016,
+        "trdPrc": 59500,
+        "cmpprevddTpCd": "5",
+        "opnprc": 60000,
+        "hgprc": 60400,
+        "lwprc": 59000,
+        "accTrdvol": 16554190,
+        "accTrdval": 987630872630,
+        "cmpprevddPrc": -500
+      },
+      {
+        "trdDd": 20201015,
+        "trdPrc": 60000,
+        "cmpprevddTpCd": "5",
+        "opnprc": 60700,
+        "hgprc": 60800,
+        "lwprc": 59700,
+        "accTrdvol": 17756232,
+        "accTrdval": 1066156791500,
+        "cmpprevddPrc": -900
+      },
+      {
+        "trdDd": 20201014,
+        "trdPrc": 60900,
+        "cmpprevddTpCd": "3",
+        "opnprc": 61000,
+        "hgprc": 61100,
+        "lwprc": 60500,
+        "accTrdvol": 16086716,
+        "accTrdval": 978464277839,
+        "cmpprevddPrc": 0
+      },
+      {
+        "trdDd": 20201013,
+        "trdPrc": 60900,
+        "cmpprevddTpCd": "2",
+        "opnprc": 61000,
+        "hgprc": 61400,
+        "lwprc": 60400,
+        "accTrdvol": 19247631,
+        "accTrdval": 1171363073700,
+        "cmpprevddPrc": 500
+      },
+      {
+        "trdDd": 20201012,
+        "trdPrc": 60400,
+        "cmpprevddTpCd": "2",
+        "opnprc": 60000,
+        "hgprc": 60400,
+        "lwprc": 59900,
+        "accTrdvol": 16145837,
+        "accTrdval": 972249295640,
+        "cmpprevddPrc": 700
+      },
+      {
+        "trdDd": 20201008,
+        "trdPrc": 59700,
+        "cmpprevddTpCd": "5",
+        "opnprc": 60500,
+        "hgprc": 60700,
+        "lwprc": 59500,
+        "accTrdvol": 24589924,
+        "accTrdval": 1473634246833,
+        "cmpprevddPrc": -200
+      },
+      {
+        "trdDd": 20201007,
+        "trdPrc": 59900,
+        "cmpprevddTpCd": "2",
+        "opnprc": 58700,
+        "hgprc": 59900,
+        "lwprc": 58500,
+        "accTrdvol": 14861838,
+        "accTrdval": 881415107100,
+        "cmpprevddPrc": 900
+      },
+      {
+        "trdDd": 20201006,
+        "trdPrc": 59000,
+        "cmpprevddTpCd": "2",
+        "opnprc": 59400,
+        "hgprc": 59900,
+        "lwprc": 58700,
+        "accTrdvol": 14463826,
+        "accTrdval": 856996117132,
+        "cmpprevddPrc": 300
+      },
+      {
+        "trdDd": 20201005,
+        "trdPrc": 58700,
+        "cmpprevddTpCd": "2",
+        "opnprc": 57500,
+        "hgprc": 59200,
+        "lwprc": 57500,
+        "accTrdvol": 20228289,
+        "accTrdval": 1183456525264,
+        "cmpprevddPrc": 500
+      }
+    ]
+  }
+}

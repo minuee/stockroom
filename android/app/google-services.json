@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "400371829702",
+    "project_id": "stock-room-8bd32",
+    "storage_bucket": "stock-room-8bd32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400371829702:android:663b2e48301dd89ac880c7",
+        "android_client_info": {
+          "package_name": "com.stockroom.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400371829702-n3j012sd3thvigvgr8sdeech1hq1e1pt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stockroom.app",
+            "certificate_hash": "525f3239e1a319eba351d330f8c30136dbfd4f0c"
+          }
+        },
+        {
+          "client_id": "400371829702-satoi5pvmfliqdhqhvvk9vg0mddhonf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxv5mGWacJdFfP7DQMVOMi3m3Vehsb0gY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400371829702-satoi5pvmfliqdhqhvvk9vg0mddhonf4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "400371829702-nae0t0pjthimvh32n8sl46q3m1fbf2j4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.stockroom.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

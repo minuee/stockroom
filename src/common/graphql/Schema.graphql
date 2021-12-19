@@ -1,0 +1,174 @@
+type BlackListConnection @aws_api_key @aws_cognito_user_pools {
+  items: [Pioneer]
+  nextToken: String
+}
+
+input DeleteBlackListInput {
+  pk: String!
+  sk: String!
+}
+
+type Mutation {
+  createRecommend(input: createRecommendInput!): RecommendListConnection
+    @aws_api_key
+  createBlackList(sk: String!): Pioneer @aws_cognito_user_pools
+  createBatchBlackList(posts: [PioneerInput]): [Pioneer] @aws_cognito_user_pools
+  updateBlackList(sk: String!): Pioneer @aws_cognito_user_pools
+  deleteBlackList(sk: String!): Pioneer @aws_cognito_user_pools
+  createPurchaserList(sk: String!): Pioneer @aws_cognito_user_pools
+  createBatchPurchaserList(posts: [PioneerInput]): [Pioneer]
+    @aws_cognito_user_pools
+  updatePurchaserList(sk: String!): Pioneer @aws_cognito_user_pools
+  deletePurchaserList(sk: String!): Pioneer @aws_cognito_user_pools
+  createRecommendList(sk: String!): Pioneer @aws_cognito_user_pools
+  updateRecommendList(sk: String!, ps: String!): Pioneer3
+    @aws_cognito_user_pools
+  deleteRecommendList(sk: String!): Pioneer @aws_cognito_user_pools
+}
+
+type Pioneer @aws_api_key @aws_cognito_user_pools {
+  dt: String
+  pk: String!
+  sk: String!
+  ps: String
+  nm: String
+}
+
+type Pioneer2 @aws_api_key {
+  dt: String
+  pk: String
+  sk: String
+  ps: String
+}
+
+type Pioneer3 {
+  dt: String
+  pk: String
+  sk: String
+  ps: String
+  bs: String
+  bank: String
+  accountNumber: String
+  purchaserName: String
+  purchaserNumber: String
+  recommenderName: String
+  recommenderNumber: String
+}
+
+input PioneerInput {
+  sk: String!
+  nm: String
+}
+
+type Query {
+  queryBlackListsByBlackListLsi(
+    pk: String!
+    first: Int
+    after: String
+  ): BlackListConnection
+  getBlackList(sk: String!): Pioneer @aws_cognito_user_pools
+  listBlackLists(
+    filter: TableBlackListFilterInput
+    limit: Int
+    nextToken: String
+  ): BlackListConnection @aws_cognito_user_pools
+  getPurchaserList(sk: String!): Pioneer @aws_cognito_user_pools
+  listPurchaserLists(
+    filter: TableBlackListFilterInput
+    limit: Int
+    nextToken: String
+  ): BlackListConnection @aws_cognito_user_pools
+  getRecommendList(sk: String!): Pioneer @aws_cognito_user_pools
+  listRecommendLists(
+    filter: TableBlackListFilterInput
+    limit: Int
+    nextToken: String
+  ): RecommendListConnection2 @aws_cognito_user_pools
+  testPipe(pk: String!, sk: String): Pioneer
+}
+
+type RecommendListConnection @aws_api_key {
+  keys: [Pioneer2]
+  cancellationReasons: String
+}
+
+type RecommendListConnection2 @aws_api_key @aws_cognito_user_pools {
+  items: [Pioneer3]
+  nextToken: String
+}
+
+input TableBlackListFilterInput {
+  sk: TableIDFilterInput
+  ps: TableIDFilterInput
+}
+
+input TableBooleanFilterInput {
+  ne: Boolean
+  eq: Boolean
+}
+
+input TableFloatFilterInput {
+  ne: Float
+  eq: Float
+  le: Float
+  lt: Float
+  ge: Float
+  gt: Float
+  contains: Float
+  notContains: Float
+  between: [Float]
+}
+
+input TableIDFilterInput {
+  ne: ID
+  eq: ID
+  le: ID
+  lt: ID
+  ge: ID
+  gt: ID
+  contains: ID
+  notContains: ID
+  between: [ID]
+  beginsWith: ID
+}
+
+input TableIntFilterInput {
+  ne: Int
+  eq: Int
+  le: Int
+  lt: Int
+  ge: Int
+  gt: Int
+  contains: Int
+  notContains: Int
+  between: [Int]
+}
+
+input TableStringFilterInput {
+  ne: String
+  eq: String
+  le: String
+  lt: String
+  ge: String
+  gt: String
+  contains: String
+  notContains: String
+  between: [String]
+  beginsWith: String
+}
+
+input UpdateBlackListInput {
+  dt: String
+  pk: String!
+  sk: String!
+  ps: String
+}
+
+input createRecommendInput {
+  purchaserName: String!
+  purchaserNumber: String!
+  recommenderName: String!
+  recommenderNumber: String!
+  bank: String!
+  accountNumber: String!
+}

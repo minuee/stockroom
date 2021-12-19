@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>400371829702-nae0t0pjthimvh32n8sl46q3m1fbf2j4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.400371829702-nae0t0pjthimvh32n8sl46q3m1fbf2j4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDj3ahuNublv7LqSZGIgDaicvK_ywcpKLE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>400371829702</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.stockroom.app</string>
+	<key>PROJECT_ID</key>
+	<string>stock-room-8bd32</string>
+	<key>STORAGE_BUCKET</key>
+	<string>stock-room-8bd32.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:400371829702:ios:8428058c58760ffdc880c7</string>
+</dict>
+</plist>
